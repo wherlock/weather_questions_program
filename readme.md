@@ -10,5 +10,10 @@
 
 <h2>To use:</h2>
 
-python3 /src/answer_weather_questions.py <b>API_ID FILE_PATH</b>
+python3 /src/answer_weather_questions.py <b>-API_ID -FILE_PATH</b>
+
+Arguments:
+
+ <b>API ID: Unique API ID
+File path: Save location for the answers in JSON format </b>
 
