@@ -10,4 +10,5 @@
 
 <h2>To use:</h2>
 
-python3 /src/Zynstra_weather_api.py 2 (API ID) /folder/file.json (file path)
+python3 /src/answer_weather_questions.py <b>API_ID FILE_PATH</b>
+
