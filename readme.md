@@ -14,6 +14,7 @@ python3 /src/answer_weather_questions.py <b>-API_ID -FILE_PATH</b>
 
 <h4>Arguments:</h4>
 
- <b>API ID:</b> Unique API ID
+<b>API ID:</b> Unique API ID
+ 
 <b>File path:</b> Save location for the answers in JSON format 
 
