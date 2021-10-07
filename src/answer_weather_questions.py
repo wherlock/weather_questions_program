@@ -36,7 +36,7 @@ class City:
 # Weather statistics used to answer questions about a city
 class GetWeatherStatistics(City):
     def temp_at_time(self, day, time): # Return int
-        temperature = self.json_data[day][time-1]["temperature"]
+        temperature = self.json_data[day][time]["temperature"] # Assuming the day starts at execly 12 not 1
         return int(temperature)
     def pressure_below(self, day, is_below): # Return bool
         pressure_below_1000_milibars = False
