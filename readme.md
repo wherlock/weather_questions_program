@@ -10,7 +10,7 @@
 
 <h2>To use:</h2>
 
-python3 /src/answer_weather_questions.py <b>-API_ID -FILE_PATH</b>
+python3 /src/answer_weather_questions.py <b>API_ID FILE_PATH</b>
 
 <h4>Arguments:</h4>
 
